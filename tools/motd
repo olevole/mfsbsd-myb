@@ -1,0 +1,12 @@
+Welcome to mfsBSD, the memory based FreeBSD distribution.
+---------------------------------------------------------
+
+To install MyBee (FreeBSD-based appliance for virtual env (jail/bhyve)), please type:
+
+  fetch https://myb.convectix.com/auto
+  sh auto
+
+To install vanilla FreeBSD 13.1-RELEASE, please type:
+
+  bsdinstall
+
